@@ -1,8 +1,5 @@
 # Aplicacion Login-con-Reconocimiento-Facial
 # Rosa Gutierrez
-# Jannie Salazar
-# Arnold Cornejo
-# Cristian Camacho
 Hola chicos, en este repositorio encontraran un sistema que logre desarrollar en Python donde realizamos un proceso de registro y login con deteccion y reconocimiento facial.
 
 ### Explicacion:
